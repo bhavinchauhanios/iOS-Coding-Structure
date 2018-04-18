@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  iOS Coding Structure
+
+  Created by WOS on 08/02/18.
+  Copyright © 2018 WOS. All rights reserved.
+*/
+
+
+"contacts" = "Contacts";
+"msgErrorInternetConnection" = "Please check network connections. try again.";
+"msgErrorServiceCall" = "Service temporarily unavailable. please try after";
+
